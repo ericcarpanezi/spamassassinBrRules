@@ -111,5 +111,5 @@ body    LOCAL_RULE46    /após uma infiltração cibernética|sites pornográfic
 score   LOCAL_RULE46    10
 body    LOCAL_RULE47    /suporte do webmail zimbra|seu email em breve|será bloqueado|não conseguiu atualizar livremente|usar a nova plataforma|de webmail zimbra|Experimente aqui:|atualizar para a nova versão|vai lembrá-lo novamente/i
 score   LOCAL_RULE47    10
-body    LOCAL_RULE49    /para atualizar seu email|Uma tentativa incorreta de|senha desabilita sua conta/i
-score   LOCAL_RULE49    10
+body    LOCAL_RULE48    /para atualizar seu email|Uma tentativa incorreta de|senha desabilita sua conta/i
+score   LOCAL_RULE48    10
