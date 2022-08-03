@@ -89,3 +89,4 @@ body	LOCAL_RULE35	/.*Você já possui uma pontuação decorrente|.*do vínculo d
 score	LOCAL_RULE35	10.0
 body	LOCAL_RULE36	/.*um problema com os dados de pagamento atuais*./
 score	LOCAL_RULE36	10.0
+TESTING
