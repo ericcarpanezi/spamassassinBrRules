@@ -113,3 +113,5 @@ body    LOCAL_RULE47    /suporte do webmail zimbra|seu email em breve|será blo
 score   LOCAL_RULE47    10
 body    LOCAL_RULE48    /para atualizar seu email|Uma tentativa incorreta de|senha desabilita sua conta/i
 score   LOCAL_RULE48    10
+header  LOCAL_RULE49    Subject =~ /.*B R I N D E S.*-.* L I N H A.* E S C R I T O R I O.*/i
+score   LOCAL_RULE49    10
